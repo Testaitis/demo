@@ -2,7 +2,7 @@
     "postId": 1,
     "id": 1,
     "name": "LINK TEST",
-    "link": "<a href=\"https://www.google.com/\" target=\"_blank\">Google</a>"
+    "link": "<a href=\"https://www.google.com/\" target=\"_blank\">Google</a>",
     "body": "LINK TEST to www.google.com"
   },
   {
